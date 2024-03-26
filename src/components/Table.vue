@@ -96,7 +96,7 @@
 <script>
   import { ref } from 'vue'
   import request from '@/utils/request.js'
-import { th, tr } from 'element-plus/es/locale'
+// import { th, tr } from 'element-plus/es/locale'
 
   export default {
     components:{
